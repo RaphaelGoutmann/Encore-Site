@@ -1,3 +1,12 @@
+/* 
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px,
+    xxl: 1400px
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 *, ::before, ::after
@@ -48,6 +57,11 @@ h1, h2
 h1 { font-size: 2.0rem; }
 h2 { font-size: 1.3rem; }
 
+.img-container
+{
+    height: 100%;
+}
+
 img
 {
     max-width: 100%;
@@ -65,9 +79,7 @@ img
     align-items: center;
 }
 
-@media screen and (max-width: 1024px) 
-{
-}
+
 
 
 .timeline-block
@@ -173,8 +185,15 @@ img
     margin-bottom: 5rem;;
 }
 
-.p-5 { 
-    padding: 5rem; 
+.p-2 {
+    padding: 2rem;
+}
+
+@media screen and (min-width: 992px)
+{
+    .lg\:p-5 { 
+        padding: 5rem; 
+    }
 }
 
 .uppercase {
@@ -196,3 +215,46 @@ hr::before
     margin: 3rem 0;
 }
 
+
+
+@media screen and (max-width: 992px) 
+{
+    .block 
+    {   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .img-container { 
+        display: none;
+    }
+
+    .pin { gap: 2rem; }
+    
+    .timeline-block {
+        padding: 2rem;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .timeline::before { display: none; }
+
+    .pin {
+        gap: 1rem;
+        
+        display: flex; 
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .pin-date {
+        display: none;
+    }
+
+    
+}
