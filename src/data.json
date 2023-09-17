@@ -19,5 +19,12 @@
         "image-url": "https://picsum.photos/200/200",
         "date": "Aujourd'hui",
         "url": "https://paxo.fr"
+    },
+    {
+        "title": "Nouvelle vidéo",
+        "description": "Ma super description",
+        "image-url": "https://picsum.photos/200/200",
+        "date": "Aujourd'hui",
+        "url": "https://paxo.fr"
     }
 ]
