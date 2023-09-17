@@ -84,7 +84,7 @@ img
 
 .timeline-block
 {
-    padding: 5rem 10%;
+    padding: 0 10%;
     text-align: center;
 }
 
@@ -212,7 +212,7 @@ hr::before
     text-align: center;
     letter-spacing: 10px;
     font-size: 20px;
-    margin: 3rem 0;
+    margin: 5rem 0;
 }
 
 
@@ -233,7 +233,7 @@ hr::before
     .pin { gap: 2rem; }
     
     .timeline-block {
-        padding: 2rem;
+        padding: 0 2rem;
     }
 
 }
