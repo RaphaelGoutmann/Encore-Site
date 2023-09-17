@@ -33,20 +33,3 @@ function createPins(data)
 
 fetch('./data.json').then((response) => response.json())
                     .then((json) => createPins(json) )
-
-
-// {% for pin in pins %}
-//     <div class="pin">
-//         <div class="pin-text">
-//             <h2 class="pin-title">{{ pin.title }}</h2>
-//             <p class="pin-description">{{ pin.description }}</p>
-//         </div>
-
-//         <img class="pin-img" src="{{ pin.thumbnail.url }}" alt="">
-
-//         <div>
-//             <div class="pin-date">{{ pin.date }}</div>
-//             <a class="btn" href="{{ pin.url }}">Consulter</a>
-//         </div>
-//     </div>
-// {% endfor %}
