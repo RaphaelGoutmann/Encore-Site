@@ -2,14 +2,14 @@
     {
         "title": "Comment on en arrive là ?",
         "description": "Découvre Pablito et sa passion du rap. Comment adolescent on se motive à enchaîner les sessions studios et les clips",
-        "image-url": "https://picsum.photos/200/200",
+        "image-url": "./img/pablo v2 logo.jpg",
         "date": "13 janvier 2023",
         "url": "https://open.spotify.com/episode/04hfJIttVzAMeulXF4fqYS?si=009e63a0ed534204"
     },
     {
         "title": "L'art de se surpasser",
         "description": "Découvre la passion de Noah Ahoui à se dépasser. Un jour réalisateur, l'autre jour globe-trotter, d'où lui vient cette confiance en lui ?",
-        "image-url": "https://picsum.photos/200/200",
+        "image-url": "./img/afinal logo noah.jpg",
         "date": "24 mars 2023",
         "url": "https://open.spotify.com/episode/2Bwwmgptx4xn7MjT687dtw?si=445dc43c9a3f42bc"
     },
@@ -23,7 +23,7 @@
     {
         "title": "Les gens et leurs passions",
         "description": "Quelle est la passion de ceux qu'on croise au quotidien ? Encore Jeune passe en format audio pour ce micro-podcast-trottoir.",
-        "image-url": "https://picsum.photos/200/200",
+        "image-url": "./img/MINIA FINAL.png",
         "date": "20 septembre 2023",
         "url": "https://paxo.fr"
     }
