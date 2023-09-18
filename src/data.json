@@ -16,7 +16,7 @@
     {
         "title": "Encore Plus",
         "description": "Une minute d'information par jour à propos de la culture populaire, ça donne Encore Plus de contenu.",
-        "image-url": "https://picsum.photos/200/200",
+        "image-url": "./img/Encore Plus logo.png",
         "date": "Juillet 2023",
         "url": "https://www.tiktok.com/@encore.plus"
     },
