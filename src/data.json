@@ -1,30 +1,30 @@
 [
     {
-        "title": "Titre 1",
-        "description": "Lorem ipsum dolor sit amet",
+        "title": "Comment on en arrive là ?",
+        "description": "Découvre Pablito et sa passion du rap. Comment adolescent on se motive à enchaîner les sessions studios et les clips",
         "image-url": "https://picsum.photos/200/200",
-        "date": "Aujourd'hui",
+        "date": "13 janvier 2023",
         "url": "https://paxo.fr"
     },
     {
-        "title": "Titre 2",
-        "description": "Lorem ipsum dolor sit amet",
+        "title": "L'art de se surpasser",
+        "description": "Découvre la passion de Noah Ahoui à se dépasser. Un jour réalisateur, l'autre jour globe-trotter, d'où lui vient cette confiance en lui ?",
         "image-url": "https://picsum.photos/200/200",
-        "date": "Aujourd'hui",
+        "date": "24 mars 2023",
         "url": "https://paxo.fr"
     },
     {
-        "title": "Titre 3",
-        "description": "Lorem ipsum dolor sit amet",
+        "title": "Encore Plus",
+        "description": "Une minute d'information par jour à propos de la culture populaire, ça donne Encore Plus de contenu.",
         "image-url": "https://picsum.photos/200/200",
-        "date": "Aujourd'hui",
+        "date": "Juillet 2023",
         "url": "https://paxo.fr"
     },
     {
-        "title": "Nouvelle vidéo",
-        "description": "Ma super description",
+        "title": "Les gens et leurs passions",
+        "description": "Quelle est la passion de ceux qu'on croise au quotidien ? Encore Jeune passe en format audio pour ce micro-podcast-trottoir.",
         "image-url": "https://picsum.photos/200/200",
-        "date": "Aujourd'hui",
+        "date": "20 septembre 2023",
         "url": "https://paxo.fr"
     }
 ]
